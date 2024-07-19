@@ -37,3 +37,5 @@ Nous devons tenter de prédire les émissions de CO2 et la consommation totale d
 
 Pierrick BERTHE<br>
 Octobre 2023
+
+test
